@@ -2,15 +2,18 @@
 Module : db.py
 But : Connexion à la base PostgreSQL et appel de la procédure stockée load_csv.
 """
-
+import os
+from dotenv import load_dotenv
 import psycopg
 
 # Paramètres de connexion à la base de données PostgreSQL
-DB_HOST = "172.20.2.200"
-DB_PORT = "5432"
-DB_NAME = "tbl_log_raspberry"
-DB_USER = "jpo2025"
-DB_PASS = "jpo2025"
+load_dotenv()
+
+DB_HOST = os.getenv("DB_HOST")
+DB_PORT = os.getenv("DB_PORT")
+DB_NAME = os.getenv("DB_NAME")
+DB_USER = os.getenv("DB_USER")
+DB_PASS = os.getenv("DB_PASS")
 
 def call_stored_procedure(csv_path):
     """
