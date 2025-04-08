@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfe29843-ae2b-4a0d-abf5-3923ee87f902" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Iram_Green_tech.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_handler/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_handler/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_handler/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpio_control/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpio_control/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainPremier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements-rpi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sensors/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sensors/dht_reader.py" afterDir="false" />
-    </list>
+    <list default="true" id="dfe29843-ae2b-4a0d-abf5-3923ee87f902" name="Changes" comment="projet green tech projet interrclasse de la journer porte ouverte 2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +102,30 @@
       <option name="presentableId" value="Default" />
       <updated>1743841750549</updated>
     </task>
+    <task id="LOCAL-00001" summary="projet green tech projet interrclasse de la journer porte ouverte 2025">
+      <option name="closed" value="true" />
+      <created>1744115925861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744115925861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projet green tech projet interrclasse de la journer porte ouverte 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="projet green tech projet interrclasse de la journer porte ouverte 2025" />
   </component>
 </project>
