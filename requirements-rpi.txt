@@ -1,0 +1,5 @@
+
+adafruit-circuitpython-dht
+board
+RPi.GPIO
+psycopg
